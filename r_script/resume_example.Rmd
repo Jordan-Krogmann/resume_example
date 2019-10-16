@@ -1,6 +1,6 @@
 ---
-title: "Someone's resume"
-author: Your Name
+title: "Jordan's Resume"
+author: Jordan Krogmann
 output: pagedown::html_resume
 ---
   
