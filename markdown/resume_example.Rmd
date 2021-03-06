@@ -37,7 +37,7 @@ Main
 Jordan Krogmann {#title}
 ------------------------------------
 
-Experienced Data Scientist with a demonstrated history of working in the higher education industry.  
+Experienced Data Scientist with a demonstrated history of working in the higher education industry.
 
 Professional Experience {data-icon=briefcase}
 ------------------------------------
@@ -50,6 +50,9 @@ Manchester NH
 
 Present - September 2020
 
+- Worked on Growth Team to capitalize on lead funnel opportunity by using A/B testing & growth methodologies
+- Created a Voice of Customer framework from the ground up to help ideation to support product optimization
+
 ### Data Scientist
 
 Southern New Hampshire University
@@ -58,15 +61,13 @@ Manchester NH
 
 September 2020 - May 2016
 
-:::consice
-- Built multi-touch attribution model to measure campaign effectiveness
-- Deployed predictive models for forecasting, conversion, and attrition
-- Produced business facing machine learning and statistical courses
-- Developed data pipelines in SQL and Azure to support predictive models
-- Created content based recommender system for lead conversion
-:::
 
-### Explosive Ordnance Disposal Team Leader
+- Built forecasting process to help predict lead conversion, student success, & graduation using machine learning 
+- Identified opportunity to address & handle a high volume of incoming students due to the pandemic by using unemployment data
+- Developed internal R packages to perform analyses & automate reports to key business stake holders
+
+
+### Senior Explosive Ordnance Disposal Team Leader
 
 United States Army
 
@@ -74,36 +75,12 @@ Fort Hood TX
 
 January 2012 - June 2007
 
-:::consice
-- Senior Explosive Disposal Badge
+
 - Placed 2nd in Korea's Team of the Year
 - Top Secret/Sensitive Compartmented Information - Security Clearance
 - Render-safed/disposed of explosive, chemical, biological, nuclear and hazardous materials
-:::
 
 
-Research {data-icon=line-chart}
-------------------------------------
-
-### Predicting Cases of Ebola in Western Africa
-
-Won 1st place for best STEM Presentation
-
-Manchester NH
-
-Spring 2016
-
-- Utilized Machine Learning to Predict number of cases of Ebola Zaire in regions of Sierra Leone, Liberia, and Guinea
-
-### The Effecient Displacement of Asylum Seekers
-
-Won 1st place for best Community Research
-
-Manchester NH
-
-Spring 2016
-
-- Used Graph Theory and Economic pricinples to optimize routes of travel for refugees moving from North Africa and the Middle East into Europe
 
 Education {data-icon=graduation-cap}
 ------------------------------------
