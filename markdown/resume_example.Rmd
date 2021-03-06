@@ -8,7 +8,7 @@ output: pagedown::html_resume
 Aside
 ====================================
   
-  ![alt text here](pictures/pict_ice_edit.jpg)
+  ![alt text here](../images/pict_ice_edit.jpg)
 
 Contact info 
 ------------------------------------
@@ -42,13 +42,21 @@ Experienced Data Scientist with a demonstrated history of working in the higher 
 Professional Experience {data-icon=briefcase}
 ------------------------------------
 
+### Senior Data Scientist
+
+Southern New Hampshire University
+
+Manchester NH
+
+Present - September 2020
+
 ### Data Scientist
 
 Southern New Hampshire University
 
 Manchester NH
 
-Present - May 2016
+September 2020 - May 2016
 
 :::consice
 - Built multi-touch attribution model to measure campaign effectiveness
