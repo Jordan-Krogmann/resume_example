@@ -42,13 +42,24 @@ Experienced Data Scientist with a demonstrated history of working in the higher 
 Professional Experience {data-icon=briefcase}
 ------------------------------------
 
+### Director of Data Science
+
+Southern New Hampshire University
+
+Manchester NH
+
+Present - July 2021
+
+- Managed team 
+- Created a Voice of Customer framework from the ground up to help ideation to support product optimization
+
 ### Senior Data Scientist
 
 Southern New Hampshire University
 
 Manchester NH
 
-Present - September 2020
+July 2021 - September 2020
 
 - Worked on Growth Team to capitalize on lead funnel opportunity by using A/B testing & growth methodologies
 - Created a Voice of Customer framework from the ground up to help ideation to support product optimization
