@@ -23,7 +23,7 @@ Contact info
 Skills 
 ------------------------------------
   
-- <i class="fa fa-empire"></i> Proficient in R, SQL, SSIS, LaTex, R/Jupyter Notebooks, Git, Microsoft Azure, Data Bricks and familiar with Python 
+- <i class="fa fa-empire"></i> Proficient in R, Python, SQL, SSIS, LaTex, Rmarkdown, Jupyter Notebooks, Git, Microsoft Azure, Data Bricks, AWS, and Sagemaker
 
 - <i class="fa fa-resistance"></i> Experienced with advanced tasks in statistical/machine learning functions, data analysis, and data architecture
 
@@ -37,7 +37,7 @@ Main
 Jordan Krogmann {#title}
 ------------------------------------
 
-Experienced Data Scientist with a demonstrated history of working in the higher education industry.
+Experienced Data Scientist with a demonstrated history of working in the higher education industry and executing growth methodologies to improve business models.
 
 Professional Experience {data-icon=briefcase}
 ------------------------------------
@@ -50,8 +50,8 @@ Manchester NH
 
 Present - July 2021
 
-- Managed team to deliver solutions to larger organization
-- Drove strategy for 
+- Drove strategy for analytic roadmap, built solutions in collaboration with external stakeholders and drove implementation
+- Lead development of solutions with moderate complexity and understand and recommend modeling techniques to data scientists
 
 ### Senior Data Scientist
 
@@ -74,7 +74,7 @@ September 2020 - May 2016
 
 
 - Built forecasting process to help predict lead conversion, student success, & graduation using machine learning 
-- Identified opportunity to address & handle a high volume of incoming students due to the pandemic by using unemployment data
+- Identified opportunities to handle a high volume of incoming students due to the pandemic by using unemployment data
 - Developed internal R packages to perform analyses & automate reports to key business stake holders
 
 
@@ -88,8 +88,8 @@ January 2012 - June 2007
 
 
 - Placed 2nd in Korea's Team of the Year
-- Top Secret/Sensitive Compartmented Information - Security Clearance
-- Render-safed/disposed of explosive, chemical, biological, nuclear and hazardous materials
+- Top Secret / SCI - Security Clearance
+- Render-safed / disposed of explosive, chemical, biological, nuclear and hazardous materials
 
 
 
