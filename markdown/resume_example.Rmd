@@ -50,8 +50,8 @@ Manchester NH
 
 Present - July 2021
 
-- Drove strategy for analytic roadmap, built solutions in collaboration with external stakeholders and drove implementation
-- Lead development of solutions with moderate complexity and understand and recommend modeling techniques to data scientists
+- Drove strategy for analytic roadmap, built solutions in collaboration with external stakeholders and fostered implementation
+- Performed code & design reviews that ensured code quality that allow junior members learn and grow their expertise 
 
 ### Senior Data Scientist
 
@@ -108,6 +108,7 @@ Minor in Education
 
 - Math Club President
 - Competition Team Captain
+
 
 ### Naval Explosive Ordnance Disposal School 
 
